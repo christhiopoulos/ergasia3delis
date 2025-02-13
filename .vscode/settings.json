@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "shared.h": "c",
+        "stat.h": "c",
+        "errno.h": "c"
+    }
+}
